@@ -48,8 +48,8 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
 - **Carpeta Scripts**: Contiene los archivos de lógica (`script.js` y `confetti.js`).
 - **Carpeta Datos**: Incluye configuraciones de figuras y cartillas en formato JSON.
   
-📌 **Nota**: Las cartillas están en `Datos/cartillas.json`. Puedes reemplazarlas según las cartillas que uses en tu evento. Actualmente, el sistema ha sido probado con **50 cartillas generadas aleatoriamente**.  
-  **Importante**: El sistema valida los números internamente sin necesidad de ver una cartilla, pero para eso **debes configurar las cartillas en el archivo `cartillas.json` dentro de la carpeta `Datos`**.
+  📌 **Nota**: Las cartillas están en `Datos/cartillas.json`. Puedes reemplazarlas según las cartillas que uses en tu evento. Actualmente, el sistema ha sido probado con **50 cartillas generadas aleatoriamente**.  
+    **Importante**: El sistema valida los números internamente sin necesidad de ver una cartilla, pero para eso **debes configurar las cartillas en el archivo `cartillas.json` dentro de la carpeta `Datos`**.
 
 3. **Ejecuta el Proyecto:**
 - Abre `index.html` directamente en el navegador.
