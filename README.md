@@ -42,3 +42,4 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
    ```bash
    git clone https://github.com/tu-usuario/bingo-virtual.git
    cd bingo-virtual
+  ```
