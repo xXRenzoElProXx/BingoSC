@@ -43,7 +43,6 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
    git clone https://github.com/tu-usuario/bingo-virtual.git
    cd bingo-virtual
 ## 2. **Verifica los Archivos:**
-
 - **index.html**: Página principal.
 - **styles.css**: Estilos personalizados.
 - **Carpeta Scripts**: Contiene los archivos de lógica (`script.js` y `confetti.js`).
@@ -52,16 +51,10 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
   📌 **Nota**: Las cartillas están en `Datos/cartillas.json`. Puedes reemplazarlas según las cartillas que uses en tu evento. Actualmente, el sistema ha sido probado con **50 cartillas generadas aleatoriamente**.
 
 ## 3. **Ejecuta el Proyecto:**
-
 - Abre `index.html` directamente en el navegador.
 - Alternativamente, usa un servidor local como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
-<div align="center">
-  <img src="Archivos Media/preview.gif" alt="Vista previa del Bingo Virtual" width="70%">
-</div>
-
 ## 📖 **Guía de Uso**
-
 1️⃣ **Selecciona una Figura**  
    Escoge una figura desde el menú desplegable y haz clic en **"Generar Figura"**.
 
@@ -80,18 +73,17 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
    🎉 ¡Déjate sorprender con confeti y sonidos especiales!
 
 ## 📂 **Estructura del Proyecto**
-
 ```plaintext
 bingo-virtual/
 ├── Archivos Media/
 │   ├── bingo-sound.mp3
 │   ├── logo.ico
-│   ├── preview.gif
 ├── Datos/
 │   ├── cartillas.json
 │   ├── figuras.json
 ├── Scripts/
 │   ├── script.js
 │   ├── confetti.js
-├── styles.css
+│   ├── confetti.min
 ├── index.html
+├── styles.css
