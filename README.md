@@ -42,7 +42,7 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
    ```bash
    git clone https://github.com/tu-usuario/bingo-virtual.git
    cd bingo-virtual
-## 2. **Verifica los Archivos:**
+2. **Verifica los Archivos:**
 - **index.html**: Página principal.
 - **styles.css**: Estilos personalizados.
 - **Carpeta Scripts**: Contiene los archivos de lógica (`script.js` y `confetti.js`).
@@ -50,7 +50,7 @@ Bienvenido al proyecto **Bingo Virtual**, una aplicación interactiva que combin
   
   📌 **Nota**: Las cartillas están en `Datos/cartillas.json`. Puedes reemplazarlas según las cartillas que uses en tu evento. Actualmente, el sistema ha sido probado con **50 cartillas generadas aleatoriamente**.
 
-## 3. **Ejecuta el Proyecto:**
+3. **Ejecuta el Proyecto:**
 - Abre `index.html` directamente en el navegador.
 - Alternativamente, usa un servidor local como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
